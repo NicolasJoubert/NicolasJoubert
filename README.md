@@ -16,7 +16,7 @@ Curious by nature, I enjoy taking on new challenges. I'm a calm person, who like
 ![HTML5](https://img.shields.io/badge/HTML5-e34f26?logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-2965f1?logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JAVASCRIPT-f0db4f?logo=Javascript&logoColor=%23323330)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/REDUX-%23593d88.svg?style=flat&logo=redux&logoColor=white) 
 ![TWIG](https://img.shields.io/badge/TWIG-64b678?logo=Twig&logoColor=%23323330)
